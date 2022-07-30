@@ -1,0 +1,12 @@
+.Header{
+    background-color: cadetblue;
+    height: 200px;
+    width: 100%;
+}
+.Header h1{
+    color: white;
+    margin: 0px;
+    text-align: center;
+    font-size: 48px;
+    padding-top: 60px;
+}
